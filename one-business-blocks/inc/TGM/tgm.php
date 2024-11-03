@@ -12,7 +12,7 @@ function one_business_blocks_register_recommended_plugins() {
 			'slug'             => 'ovation-elements',
 			'required'         => false,
 			'force_activation' => false,
-		),
+		)
 	);
 	$config = array();
 	one_business_blocks_tgmpa( $plugins, $config );
