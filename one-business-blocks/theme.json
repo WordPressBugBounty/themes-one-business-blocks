@@ -197,7 +197,7 @@
                 {
                     "color":"#a7aaad",
                     "name": "Sidebar Shadow Color",
-                    "slug": "sidebar shadow color"
+                    "slug": "sidebar-shadow-color"
                 }
             ]
         },
@@ -690,6 +690,11 @@
             "title": "Page Right Sidebar"
         },
         {
+            "name": "page-no-header-image",
+            "postTypes": ["page"],
+            "title": "Page No Header Image"
+        },
+        {
             "name": "post-left-sidebar",
             "postTypes": ["post"],
             "title": "Post Left Sidebar"
@@ -698,6 +703,11 @@
             "name": "post-no-sidebar",
             "postTypes": ["post"],
             "title": "Post No Sidebar"
+        },
+        {
+            "name": "post-no-header-image",
+            "postTypes": ["post"],
+            "title": "Post No Header Image"
         }
     ]
 }
