@@ -72,7 +72,11 @@
 
 <!-- wp:navigation-link {"label":"Project","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Pages","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
+<!-- wp:navigation-submenu {"label":"Pages","type":"","url":"#","kind":"custom"} -->
+	<!-- wp:navigation-link {"label":"Page 1","type":"","url":"#","kind":"custom","className":""} /-->
+
+	<!-- wp:navigation-link {"label":"Page 2","type":"","url":"#","kind":"custom","className":""} /-->
+<!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-link {"label":"Blog","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
 

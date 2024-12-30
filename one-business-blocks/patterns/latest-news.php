@@ -6,12 +6,12 @@
  */
 ?>
 
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"base","className":"blog-section","layout":{"type":"constrained","contentSize":"75%"}} -->
+<!-- wp:group {"metadata":{"categories":["one-business-blocks","latest-news"],"patternName":"one-business-blocks/latest-news","name":"Latest News"},"className":"blog-section","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"base","layout":{"type":"constrained","contentSize":"75%"}} -->
 <div class="wp-block-group blog-section has-base-background-color has-background" style="margin-top:0px;margin-bottom:0px"><!-- wp:spacer {"height":"19px"} -->
 <div style="height:19px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textTransform":"uppercase"}},"textColor":"primary","className":" wow bounceInUp"} -->
+<!-- wp:heading {"textAlign":"center","level":3,"className":" wow bounceInUp","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textTransform":"uppercase"}},"textColor":"primary"} -->
 <h3 class="wp-block-heading has-text-align-center wow bounceInUp has-primary-color has-text-color has-link-color" style="text-transform:uppercase"><?php esc_html_e('LATEST NEWS','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
@@ -25,18 +25,20 @@
 
 <!-- wp:query {"queryId":36,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true}} -->
 <div class="wp-block-query"><!-- wp:post-template {"layout":{"type":"grid","columnCount":3}} -->
-<!-- wp:group {"style":{"border":{"radius":"10px"}},"backgroundColor":"base","className":"blog-box","layout":{"type":"constrained"}} -->
-<div class="wp-block-group blog-box has-base-background-color has-background" style="border-radius:10px"><!-- wp:cover {"useFeaturedImage":true,"dimRatio":80,"customOverlayColor":"#000e0d","className":"blog-box","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover blog-box"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim" style="background-color:#000e0d"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"className":"blog-date-box","layout":{"type":"default"}} -->
-<div class="wp-block-group blog-date-box"><!-- wp:post-date {"textAlign":"right","format":"M y","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black","className":"blog-date"} /--></div>
+<!-- wp:group {"className":"blog-box","style":{"color":{"background":"#000e0d"},"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group blog-box has-background" style="background-color:#000e0d;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"className":"blog-date-box","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group blog-date-box" style="margin-top:0;margin-bottom:0"><!-- wp:post-date {"textAlign":"right","format":"M y","className":"blog-date","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:post-title {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} /-->
+<!-- wp:post-featured-image {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} /-->
+
+<!-- wp:group {"className":"blog-box-inner","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group blog-box-inner" style="margin-top:0;margin-bottom:0"><!-- wp:post-title {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} /-->
 
 <!-- wp:post-excerpt {"textAlign":"center","excerptLength":25} /-->
 
-<!-- wp:read-more {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} /--></div></div>
-<!-- /wp:cover --></div>
+<!-- wp:read-more {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} /--></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->
 <!-- /wp:post-template -->
 

@@ -31,7 +31,9 @@ define('ONE_BUSINESS_BLOCKS_FREE_DOC',__('https://trial.ovationthemes.com/docs/o
 if ( ! defined( 'ONE_BUSINESS_BLOCKS_THEME_NAME' ) ) {
 define('ONE_BUSINESS_BLOCKS_THEME_NAME',__('Premium One Business Blocks Theme','one-business-blocks'));
 }
-
+if ( ! defined( 'ONE_BUSINESS_BLOCKS_BUNDLE_LINK' ) ) {
+define('ONE_BUSINESS_BLOCKS_BUNDLE_LINK',__('https://www.ovationthemes.com/products/wordpress-bundle','one-business-blocks'));
+}
 /**
  * Theme Info Page
  */
@@ -80,11 +82,12 @@ function one_business_blocks_guide() {
 				<h3><?php echo esc_html(ONE_BUSINESS_BLOCKS_THEME_NAME); ?></h3>
 				<img class="one_business_blocks_img_responsive" style="width: 100%;" src="<?php echo esc_url( $theme->get_screenshot() ); ?>" />
 				<div class="pro-links">
-					<hr>
-			    	<a class="button-primary livedemo" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_LIVE_DEMO ); ?>" target="_blank"><?php esc_html_e('Live Demo', 'one-business-blocks'); ?></a>
-					<a class="button-primary buynow" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUY_PRO ); ?>" target="_blank"><?php esc_html_e('Buy Now', 'one-business-blocks'); ?></a>
-					<a class="button-primary docs" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_PRO_DOC ); ?>" target="_blank"><?php esc_html_e('Documentation', 'one-business-blocks'); ?></a>
-					<hr>
+					<div class="pro-links-inner">
+						<a class="button-primary livedemo" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_LIVE_DEMO ); ?>" target="_blank"><?php esc_html_e('Live Demo', 'one-business-blocks'); ?></a>
+						<a class="button-primary buynow" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUY_PRO ); ?>" target="_blank"><?php esc_html_e('Buy Now', 'one-business-blocks'); ?></a>
+						<a class="button-primary docs" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_PRO_DOC ); ?>" target="_blank"><?php esc_html_e('Documentation', 'one-business-blocks'); ?></a>
+					</div>
+						<a class="button-primary bundle-btn" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUNDLE_LINK ); ?>" target="_blank"><?php esc_html_e('Wordpress Theme Bundle (100+ Themes at Just $89)', 'one-business-blocks'); ?></a>
 				</div>
 				<ul style="padding-top:10px">
 					<li class="upsell-one_business_blocks"> <div class="dashicons dashicons-yes"></div> <?php esc_html_e('Responsive Design', 'one-business-blocks');?> </li>                 
