@@ -63,7 +63,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","width":"50%","className":"nav-block wow rubberBand","style":{"spacing":{"padding":{"left":"var:preset|spacing|40"}}}} -->
-<div class="wp-block-column is-vertically-aligned-center nav-block wow rubberBand" style="padding-left:var(--wp--preset--spacing--40);flex-basis:50%"><!-- wp:navigation {"textColor":"white","overlayBackgroundColor":"base","overlayTextColor":"heading","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account","woocommerce/mini-cart"]},"style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}},"fontSize":"small","fontFamily":"barlow","layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-column is-vertically-aligned-center nav-block wow rubberBand" style="padding-left:var(--wp--preset--spacing--40);flex-basis:50%"><!-- wp:navigation {"textColor":"white","overlayBackgroundColor":"white","overlayTextColor":"black","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account","woocommerce/mini-cart"]},"style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}},"fontSize":"small","fontFamily":"barlow","layout":{"type":"flex","justifyContent":"center"}} -->
 <!-- wp:navigation-link {"label":"Home","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
 
 <!-- wp:navigation-link {"label":"Services","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
