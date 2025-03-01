@@ -13,13 +13,13 @@
  * @return void
  */
 function one_business_blocks_register_block_patterns() {
-	$block_pattern_categories = array(
+	$one_business_blocks_block_pattern_categories = array(
 		'one-business-blocks'    => array( 'label' => __( 'One Business Blocks', 'one-business-blocks' ) ),
 	);
 
-	$block_pattern_categories = apply_filters( 'one_business_blocks_block_pattern_categories', $block_pattern_categories );
+	$one_business_blocks_block_pattern_categories = apply_filters( 'one_business_blocks_block_pattern_categories', $one_business_blocks_block_pattern_categories );
 
-	foreach ( $block_pattern_categories as $name => $properties ) {
+	foreach ( $one_business_blocks_block_pattern_categories as $name => $properties ) {
 		if ( ! WP_Block_Pattern_Categories_Registry::get_instance()->is_registered( $name ) ) {
 			register_block_pattern_category( $name, $properties );
 		}
