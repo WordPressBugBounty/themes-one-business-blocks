@@ -50,6 +50,7 @@ function one_business_blocks_guide() {
 		</div>
 		<div class="header-box-right">
 			<div class="btn_box">
+				<a class="button-primary" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_FREE_DOC ); ?>" target="_blank"><?php esc_html_e('Documentation', 'one-business-blocks'); ?></a>
 				<a class="button-primary" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_SUPPORT ); ?>" target="_blank"><?php esc_html_e('Support', 'one-business-blocks'); ?></a>
 				<a class="button-primary" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_REVIEW ); ?>" target="_blank"><?php esc_html_e('Review', 'one-business-blocks'); ?></a>
 			</div>
