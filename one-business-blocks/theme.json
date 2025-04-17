@@ -204,62 +204,167 @@
         "typography": {
             "fontFamilies": [
                 {
+                    "fontFamily": "\"Figtree\", sans-serif",
+                    "name": "Figtree",
+                    "slug": "figtree",
+                    "fontFace": [
+                        {
+                            "fontFamily": "Figtree",
+                            "fontStretch": "normal",
+                            "fontStyle": "normal",
+                            "fontWeight": "300 900",
+                            "src": [
+                                "file:./assets/fonts/figtree/Figtree-VariableFont_wght.ttf"
+                            ]
+                        },
+                        {
+                            "fontFamily": "Figtree",
+                            "fontStretch": "normal",
+                            "fontStyle": "italic",
+                            "fontWeight": "300 900",
+                            "src": [
+                                "file:./assets/fonts/figtree/Figtree-Italic-VariableFont_wght.ttf"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "fontFamily": "\"Outfit\", sans-serif",
+                    "name": "Outfit",
+                    "slug": "outfit",
+                    "fontFace": [
+                        {
+                            "fontFamily": "Outfit",
+                            "fontStretch": "normal",
+                            "fontStyle": "normal",
+                            "fontWeight": "100 900",
+                            "src": [
+                                "file:./assets/fonts/outfit/Outfit-VariableFont_wght.ttf"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "fontFamily": "\"Lora\", serif",
+                    "name": "Lora",
+                    "slug": "lora",
+                    "fontFace": [
+                        {
+                            "fontFamily": "Lora",
+                            "fontStretch": "normal",
+                            "fontStyle": "normal",
+                            "fontWeight": "400 700",
+                            "src": [
+                                "file:./assets/fonts/lora/Lora-VariableFont_wght.ttf"
+                            ]
+                        },
+                        {
+                            "fontFamily": "Lora",
+                            "fontStretch": "normal",
+                            "fontStyle": "italic",
+                            "fontWeight": "400 700",
+                            "src": [
+                                "file:./assets/fonts/lora/Lora-Italic-VariableFont_wght.ttf"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "fontFamily": "\"Inter\", sans-serif",
+                    "name": "Inter",
+                    "slug": "inter",
+                    "fontFace": [
+                        {
+                            "fontFamily": "Inter",
+                            "fontStretch": "normal",
+                            "fontStyle": "normal",
+                            "fontWeight": "100 900",
+                            "src": [
+                                "file:./assets/fonts/inter/Inter-VariableFont_opsz,wght.ttf"
+                            ]
+                        },
+                        {
+                            "fontFamily": "Inter",
+                            "fontStretch": "normal",
+                            "fontStyle": "italic",
+                            "fontWeight": "100 900",
+                            "src": [
+                                "file:./assets/fonts/inter/Inter-Italic-VariableFont_opsz,wght.ttf"
+                            ]
+                        }
+                    ]
+                },
+                {
                     "fontFamily": "\"Roboto\", sans-serif",
                     "name": "Roboto",
                     "slug": "roboto",
                     "fontFace": [
                         {
                             "fontFamily": "Roboto",
-                            "fontWeight": "100",
+                            "fontStretch": "normal",
                             "fontStyle": "normal",
-                            "fontStretch": "",
+                            "fontWeight": "100 900",
                             "src": [
-                                "file:./assets/fonts/Roboto/Roboto-Thin.ttf"
+                                "file:./assets/fonts/roboto/Roboto-VariableFont_wdth,wght.ttf"
                             ]
                         },
                         {
                             "fontFamily": "Roboto",
-                            "fontWeight": "300",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
+                            "fontStretch": "normal",
+                            "fontStyle": "italic",
+                            "fontWeight": "100 900",
                             "src": [
-                                "file:./assets/fonts/Roboto/Roboto-Light.ttf"
+                                "file:./assets/fonts/roboto/Roboto-Italic-VariableFont_wdth,wght.ttf"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "fontFamily": "\"Rubik\", sans-serif",
+                    "name": "Rubik",
+                    "slug": "rubik",
+                    "fontFace": [
+                        {
+                            "fontFamily": "Rubik",
+                            "fontStretch": "normal",
+                            "fontStyle": "normal",
+                            "fontWeight": "300 900",
+                            "src": [
+                                "file:./assets/fonts/rubik/Rubik-VariableFont_wght.ttf"
                             ]
                         },
                         {
-                            "fontFamily": "Roboto",
-                            "fontWeight": "400",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
+                            "fontFamily": "Rubik",
+                            "fontStretch": "normal",
+                            "fontStyle": "italic",
+                            "fontWeight": "300 900",
                             "src": [
-                                "file:./assets/fonts/Roboto/Roboto-Regular.ttf"
+                                "file:./assets/fonts/rubik/Rubik-Italic-VariableFont_wght.ttf"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "fontFamily": "\"Rubik\", sans-serif",
+                    "name": "Rubik",
+                    "slug": "rubik",
+                    "fontFace": [
+                        {
+                            "fontFamily": "Rubik",
+                            "fontStretch": "normal",
+                            "fontStyle": "normal",
+                            "fontWeight": "300 900",
+                            "src": [
+                                "file:./assets/fonts/rubik/Rubik-VariableFont_wght.ttf"
                             ]
                         },
                         {
-                            "fontFamily": "Roboto",
-                            "fontWeight": "500",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
+                            "fontFamily": "Rubik",
+                            "fontStretch": "normal",
+                            "fontStyle": "italic",
+                            "fontWeight": "300 900",
                             "src": [
-                                "file:./assets/fonts/Roboto/Roboto-Medium.ttf"
-                            ]
-                        },
-                        {
-                            "fontFamily": "Roboto",
-                            "fontWeight": "700",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
-                            "src": [
-                                "file:./assets/fonts/Roboto/Roboto-Bold.ttf"
-                            ]
-                        },
-                        {
-                            "fontFamily": "Roboto",
-                            "fontWeight": "900",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
-                            "src": [
-                                "file:./assets/fonts/Roboto/Roboto-Black.ttf"
+                                "file:./assets/fonts/rubik/Rubik-Italic-VariableFont_wght.ttf"
                             ]
                         }
                     ]
@@ -348,76 +453,6 @@
                             "fontStretch": "",
                             "src": [
                                 "file:./assets/fonts/Barlow/Barlow-Black.ttf"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "fontFamily": "\"Rubik\", sans-serif",
-                    "name": "Rubik",
-                    "slug": "rubik",
-                    "fontFace": [
-                        {
-                            "fontFamily": "Rubik",
-                            "fontWeight": "300",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
-                            "src": [
-                                "file:./assets/fonts/Rubik/static/Rubik-Light.ttf"
-                            ]
-                        },
-                        {
-                            "fontFamily": "Rubik",
-                            "fontWeight": "400",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
-                            "src": [
-                                "file:./assets/fonts/Rubik/static/Rubik-Regular.ttf"
-                            ]
-                        },
-                        {
-                            "fontFamily": "Rubik",
-                            "fontWeight": "500",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
-                            "src": [
-                                "file:./assets/fonts/Rubik/static/Rubik-Medium.ttf"
-                            ]
-                        },
-                        {
-                            "fontFamily": "Rubik",
-                            "fontWeight": "600",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
-                            "src": [
-                                "file:./assets/fonts/Rubik/static/Rubik-SemiBold.ttf"
-                            ]
-                        },
-                        {
-                            "fontFamily": "Rubik",
-                            "fontWeight": "700",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
-                            "src": [
-                                "file:./assets/fonts/Rubik/static/Rubik-Bold.ttf"
-                            ]
-                        },
-                        {
-                            "fontFamily": "Rubik",
-                            "fontWeight": "800",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
-                            "src": [
-                                "file:./assets/fonts/Rubik/static/Rubik-ExtraBold.ttf"
-                            ]
-                        },
-                        {
-                            "fontFamily": "Rubik",
-                            "fontWeight": "900",
-                            "fontStyle": "normal",
-                            "fontStretch": "",
-                            "src": [
-                                "file:./assets/fonts/Rubik/static/Rubik-Black.ttf"
                             ]
                         }
                     ]

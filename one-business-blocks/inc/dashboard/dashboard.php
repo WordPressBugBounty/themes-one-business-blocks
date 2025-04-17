@@ -88,7 +88,7 @@ function one_business_blocks_guide() {
 						<a class="button-primary buynow" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUY_PRO ); ?>" target="_blank"><?php esc_html_e('Buy Now', 'one-business-blocks'); ?></a>
 						<a class="button-primary docs" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_PRO_DOC ); ?>" target="_blank"><?php esc_html_e('Documentation', 'one-business-blocks'); ?></a>
 					</div>
-						<a class="button-primary bundle-btn" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUNDLE_LINK ); ?>" target="_blank"><?php esc_html_e('Wordpress Theme Bundle (100+ Themes at Just $89)', 'one-business-blocks'); ?></a>
+						<a class="button-primary bundle-btn" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUNDLE_LINK ); ?>" target="_blank"><?php esc_html_e('Wordpress Theme Bundle (120+ Themes at Just $89)', 'one-business-blocks'); ?></a>
 				</div>
 				<ul style="padding-top:10px">
 					<li class="upsell-one_business_blocks"> <div class="dashicons dashicons-yes"></div> <?php esc_html_e('Responsive Design', 'one-business-blocks');?> </li>                 
