@@ -5,11 +5,6 @@ function one_business_blocks_gettingstarted() {
 	add_theme_page( esc_html__('Begin Installation', 'one-business-blocks'), esc_html__('Begin Installation', 'one-business-blocks'), 'edit_theme_options', 'one-business-blocks-guide-page', 'one_business_blocks_guide');
 }
 
-function one_business_blocks_admin_theme_style() {
-   wp_enqueue_style('one-business-blocks-custom-admin-style', esc_url(get_template_directory_uri()) . '/inc/dashboard/dashboard.css');
-}
-add_action('admin_enqueue_scripts', 'one_business_blocks_admin_theme_style');
-
 if ( ! defined( 'ONE_BUSINESS_BLOCKS_SUPPORT' ) ) {
 define('ONE_BUSINESS_BLOCKS_SUPPORT',__('https://wordpress.org/support/theme/one-business-blocks/','one-business-blocks'));
 }
@@ -88,7 +83,7 @@ function one_business_blocks_guide() {
 						<a class="button-primary buynow" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUY_PRO ); ?>" target="_blank"><?php esc_html_e('Buy Now', 'one-business-blocks'); ?></a>
 						<a class="button-primary docs" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_PRO_DOC ); ?>" target="_blank"><?php esc_html_e('Documentation', 'one-business-blocks'); ?></a>
 					</div>
-						<a class="button-primary bundle-btn" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUNDLE_LINK ); ?>" target="_blank"><?php esc_html_e('Wordpress Theme Bundle (120+ Themes at Just $89)', 'one-business-blocks'); ?></a>
+						<a class="button-primary bundle-btn" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUNDLE_LINK ); ?>" target="_blank"><?php esc_html_e('WordPress Theme Bundle (120+ Themes at Just $89)', 'one-business-blocks'); ?></a>
 				</div>
 				<ul style="padding-top:10px">
 					<li class="upsell-one_business_blocks"> <div class="dashicons dashicons-yes"></div> <?php esc_html_e('Responsive Design', 'one-business-blocks');?> </li>                 
