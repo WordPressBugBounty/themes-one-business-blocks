@@ -58,6 +58,7 @@ button:focus{
         border-top: 2px solid var(--wp--preset--color--primary);
         border-bottom: 2px solid var(--wp--preset--color--primary);
         box-shadow: -2px 2px 8px #cfc8d8;
+        z-index: 99;
     }
     .wp-block-navigation ul ul li a:hover::before,
     .wp-block-navigation ul ul li a:focus::before,
