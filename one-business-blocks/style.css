@@ -7,7 +7,7 @@ Description: One Business Blocks is an excellent website template designed to el
 Requires at least: 6.1
 Tested up to: 6.8
 Requires PHP: 5.6
-Version: 3.1
+Version: 3.2
 License: GNU General Public License
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Text Domain: one-business-blocks
@@ -1025,3 +1025,106 @@ p.scroll-top {
         }
     }
 }
+
+/*testimonial*/
+.tstimonial-box{
+    width: 100% !important;
+    transition: 0.5s;
+}
+.testimonail-main-img img{
+    border: 2px solid transparent;
+    transition: 0.5s;
+    width: 60px;
+    height: 60px;
+}
+.tstimonial-box h6,.tstimonial-box p{
+    transition: 0.5s;
+}
+.tstimonial-box:hover {
+    Background-color: var(--wp--preset--color--primary);
+    transition: 0.5s;
+}
+.tstimonial-box:hover .testimonail-main-img img{
+    border: 2px solid var(--wp--preset--color--white);
+}
+.tstimonial-box:hover h6,.tstimonial-box:hover p{
+    color: var(--wp--preset--color--white) !important;
+}
+/*testimnail swiper css start*/
+.wp-block-group.one-business-blocks-testimonial-swiper {
+  overflow: hidden;
+  position: relative;
+}
+.wp-block-group.one-business-blocks-testimonial-swiper .swiper-wrapper{
+    gap: 30px;
+}
+.one-business-blocks-testimonial-swiper .swiper-slide {
+  display: flex;
+  margin-block-start: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.wp-block-group.one-business-blocks-testimonial-swiper-controls {
+  position: unset;
+}
+.one-business-blocks-testimonial-swiper-controls .one-business-blocks-testimonial-pagination.swiper-pagination-clickable.swiper-pagination-bullets {
+  position: absolute;
+  bottom: 0;
+  z-index: 1;
+  width: 100%;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 0 !important;
+}
+.one-business-blocks-testimonial-swiper-controls .one-business-blocks-testimonial-pagination.swiper-pagination-clickable.swiper-pagination-bullets span.swiper-pagination-bullet {
+  width: 10px;
+  height: 10px;
+  background-color: var(--wp--preset--color--foreground);
+}
+.one-business-blocks-testimonial-swiper-controls .one-business-blocks-testimonial-pagination.swiper-pagination-clickable.swiper-pagination-bullets span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background: var(--wp--preset--color--primary);
+}
+.one-business-blocks-testimonial-swiper-controls .swiper-button-prev.one-business-blocks-testimonial-swiper-button-prev,
+.one-business-blocks-testimonial-swiper-controls .swiper-button-next.one-business-blocks-testimonial-swiper-button-next {
+  width: 40px;
+  height: 40px;
+  border-radius: 0;
+  background: transparent;
+  color: var(--wp--preset--color--primary);
+  transition: all ease 0.23s;
+  opacity: 1 !important;
+  top: 50%;
+  margin: -20px 0 0 0;
+}
+.one-business-blocks-testimonial-swiper-controls .swiper-button-prev.one-business-blocks-testimonial-swiper-button-prev{
+    left: 0;
+}
+.one-business-blocks-testimonial-swiper-controls .swiper-button-next.one-business-blocks-testimonial-swiper-button-next{
+    right: 0;
+}
+.one-business-blocks-testimonial-swiper-controls .swiper-button-prev.one-business-blocks-testimonial-swiper-button-prev:hover,
+.one-business-blocks-testimonial-swiper-controls .swiper-button-next.one-business-blocks-testimonial-swiper-button-next:hover {
+  background: transparent;
+  color: var(--wp--preset--color--heading);
+}
+.one-business-blocks-testimonial-swiper-controls .swiper-button-prev.one-business-blocks-testimonial-swiper-button-prev:after,
+.one-business-blocks-testimonial-swiper-controls .swiper-button-next.one-business-blocks-testimonial-swiper-button-next:after {
+  font-size: 30px;
+  font-weight: 900;
+}
+.one-business-blocks-testimonial-swiper-controls.wp-block-group.block-editor-block-list__layout .wp-block.wp-block-html {
+  display: none;
+}
+
+.one-business-blocks-testimonial-swiper-controls.wp-block-group.block-editor-block-list__layout .wp-block.is-selected.wp-block-html {
+  display: block !important;
+}
+@media screen and (max-width: 1199px){
+    .one-business-blocks-testimonial-swiper:where(:not(.alignleft):not(.alignright):not(.alignfull)){
+        max-width: 95% !important;
+        padding-right: 40px !important;
+        padding-left: 40px !important;
+    }
+}
+/*testimonial swiper css end*/

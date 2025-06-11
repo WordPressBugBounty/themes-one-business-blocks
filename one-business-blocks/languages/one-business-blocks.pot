@@ -2,14 +2,14 @@
 # This file is distributed under the GNU General Public License.
 msgid ""
 msgstr ""
-"Project-Id-Version: One Business Blocks 3.1\n"
+"Project-Id-Version: One Business Blocks 3.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/one-business-blocks\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-05-28T05:00:45+00:00\n"
+"POT-Creation-Date: 2025-06-10T13:57:19+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: one-business-blocks\n"
@@ -712,6 +712,7 @@ msgstr ""
 #: patterns/our-services.php:15
 #: patterns/our-skills.php:15
 #: patterns/profit-graph.php:19
+#: patterns/testimonial.php:19
 #: patterns/trust-us.php:17
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
 msgstr ""
@@ -1057,6 +1058,40 @@ msgstr ""
 
 #: patterns/single-product.php:46
 msgid "Related Products"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:15
+msgid "testimonials"
+msgstr ""
+
+#: patterns/testimonial.php:31
+msgid "Ava Mitchell"
+msgstr ""
+
+#: patterns/testimonial.php:35
+#: patterns/testimonial.php:55
+#: patterns/testimonial.php:75
+#: patterns/testimonial.php:95
+#: patterns/testimonial.php:115
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Semper ultricies urna et imperdiet et pulvinar in ullamcorper. Cursus tellus tincidunt elementum…"
+msgstr ""
+
+#: patterns/testimonial.php:51
+msgid "Rahul Desai"
+msgstr ""
+
+#: patterns/testimonial.php:71
+msgid "Claire Benson"
+msgstr ""
+
+#: patterns/testimonial.php:91
+#: patterns/testimonial.php:111
+msgid "Liam Chen"
 msgstr ""
 
 #: patterns/trust-us.php

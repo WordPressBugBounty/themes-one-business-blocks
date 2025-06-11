@@ -39,6 +39,11 @@ function one_business_blocks_setup() {
 	// Enqueue editor styles.
 	add_editor_style( array( 'assets/css/editor-style.css' ) );
 
+	if (! defined('ONE_BUSINESS_BLOCKS_VERSION')) {
+		// Replace the version number of the theme on each release.
+		define('ONE_BUSINESS_BLOCKS_VERSION', wp_get_theme()->get('Version'));
+	}
+
     require get_parent_theme_file_path( '/inc/dashboard/dashboard.php' );
 
     require get_parent_theme_file_path( '/inc/customizer/customizer.php' );
@@ -61,10 +66,15 @@ function one_business_blocks_scripts() {
 	//font-awesome
 	wp_enqueue_style( 'fontawesome', get_template_directory_uri() . '/assets/font-awesome/css/all.css', array(), '5.15.3' );
 
-	// script.js
-	wp_enqueue_script('one-business-blocks-main-script', get_template_directory_uri() . '/assets/js/script.js', array('jquery'), '1.0.0', true);
-
     wp_style_add_data( 'one-business-blocks-basic-style', 'rtl', 'replace' );
+
+    //homepage slider
+	wp_enqueue_style('one-business-blocks-swiper-bundle-css', get_template_directory_uri() . '/assets/css/swiper-bundle.css', array(), ONE_BUSINESS_BLOCKS_VERSION);
+
+	wp_enqueue_script('one-business-blocks-swiper-bundle-js', get_template_directory_uri() . '/assets/js/swiper-bundle.js', array('jquery'), ONE_BUSINESS_BLOCKS_VERSION, true);
+
+	// script.js
+	wp_enqueue_script('one-business-blocks-main-script', get_template_directory_uri() . '/assets/js/script.js', array('jquery'), ONE_BUSINESS_BLOCKS_VERSION, true);
 }
 add_action( 'wp_enqueue_scripts', 'one_business_blocks_scripts' );
 

@@ -547,3 +547,8 @@ p.scroll-top {
 .blog-box-inner .wp-block-read-more{
     margin: auto;
 }
+
+.wp-block-group.one-business-blocks-testimonial-swiper .swiper-wrapper{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+}
