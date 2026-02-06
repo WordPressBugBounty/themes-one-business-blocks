@@ -2,9 +2,9 @@
 
 Contributors: pewilliams
 Requires at least: 6.1
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 3.5
+Stable tag: 4.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Tags: blog, portfolio, e-commerce, one-column, two-columns, custom-colors, custom-menu, custom-logo, sticky-post, threaded-comments, right-sidebar, left-sidebar, grid-layout, custom-background, rtl-language-support, featured-images, wide-blocks, editor-style, full-site-editing, block-patterns, block-styles, style-variations, template-editing, translation-ready
@@ -63,8 +63,9 @@ https://fontawesome.com
 
 * TGMPA
 GaryJones Copyright (C) 1989, 1991
-https://github.com/TGMPA/TGM-Plugin-Activation/blob/develop/LICENSE.md
 License: GNU General Public License v2.0
+LICENSE URL https://github.com/TGMPA/TGM-Plugin-Activation/blob/develop/LICENSE.md
+SOURCE URL: https://github.com/TGMPA/TGM-Plugin-Activation
 
 * Swiper
 LICENSE URL: https://github.com/nolimits4web/swiper/blob/master/LICENSE
@@ -200,3 +201,45 @@ One Business Blocks is distributed under the terms of the GNU GPL
 
 = 3.5 =
 * Resolved bugs.
+
+= 3.6 =
+* Resolved css error.
+
+= 3.7 =
+* Resolved css for single post and related post image.
+* Add title in shop page and search result page of products.
+* Resolved css error for cart page.
+* Show dropdown icon in shop page filter.
+
+= 3.8 =
+* Resolved css error.
+
+= 3.9 =
+* Resolved css bugs in inner pages.
+* Added animation to inner shop page image.
+* Updated the theme bundle text. 
+* In templates added blank page.
+
+= 4.0 =
+* Resolves minor css bugs.
+
+= 4.1 =
+* Resolved css bugs.
+* Added hover effect on single post image.
+* Added blog listing template.
+* In sidebar added page block.
+* Set the inner pages in container.
+
+= 4.2 =
+* Resolves css bugs.
+
+= 4.3 =
+* Added single page no sidebar template.
+* Added single post sidebar on left template.
+* Added hover effect on sidebar blogs.
+* Change the bundle price.
+* Fixed responsive of get start.
+* Added hover effect to images.
+* Set the all heading in h2 tag.
+* Resolved tgm error.
+* Updated pot file.

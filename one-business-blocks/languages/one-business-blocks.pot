@@ -1,17 +1,17 @@
-# Copyright (C) 2025 pewilliams
+# Copyright (C) 2026 pewilliams
 # This file is distributed under the GNU General Public License.
 msgid ""
 msgstr ""
-"Project-Id-Version: One Business Blocks 3.2\n"
+"Project-Id-Version: One Business Blocks 4.3\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/one-business-blocks\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-06-10T13:57:19+00:00\n"
+"POT-Creation-Date: 2026-01-30T12:11:46+05:30\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.12.0\n"
+"X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: one-business-blocks\n"
 
 #. Theme Name of the theme
@@ -142,7 +142,7 @@ msgid "Supper Fast"
 msgstr ""
 
 #: inc/customizer/customizer.php:67
-msgid "WP Theme Bundle (120+ Themes)"
+msgid "WP Theme Bundle (125+ Themes)"
 msgstr ""
 
 #: inc/dashboard/dashboard.php:5
@@ -225,12 +225,11 @@ msgid "Live Demo"
 msgstr ""
 
 #: inc/dashboard/dashboard.php:83
-#: inc/dashboard/welcome-notice.php:216
 msgid "Buy Now"
 msgstr ""
 
 #: inc/dashboard/dashboard.php:86
-msgid "WordPress Theme Bundle (120+ Themes at Just $89)"
+msgid "WordPress Theme Bundle (125+ Themes at Just $89)"
 msgstr ""
 
 #: inc/dashboard/welcome-notice.php:52
@@ -243,236 +242,227 @@ msgstr ""
 msgid "For information and detailed instructions, check out our theme documentation."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:327
+#: inc/dashboard/welcome-notice.php:216
+msgid "Get Pro Theme"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:340
 msgid "Install Required Plugins"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:328
+#: inc/TGM/class-tgm-plugin-activation.php:341
 msgid "Install Plugins"
 msgstr ""
 
 #. translators: %s: plugin name.
-#: inc/TGM/class-tgm-plugin-activation.php:330
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:343
 msgid "Installing Plugin: %s"
 msgstr ""
 
 #. translators: %s: plugin name.
-#: inc/TGM/class-tgm-plugin-activation.php:332
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:345
 msgid "Updating Plugin: %s"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:333
+#: inc/TGM/class-tgm-plugin-activation.php:346
 msgid "Something went wrong with the plugin API."
 msgstr ""
 
 #. translators: 1: plugin name(s).
-#: inc/TGM/class-tgm-plugin-activation.php:334
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:348
 msgid "This theme requires the following plugin: %1$s."
 msgid_plural "This theme requires the following plugins: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: plugin name(s).
-#: inc/TGM/class-tgm-plugin-activation.php:340
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:354
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: plugin name(s).
-#: inc/TGM/class-tgm-plugin-activation.php:346
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:360
 msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
 msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: plugin name(s).
-#: inc/TGM/class-tgm-plugin-activation.php:352
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:366
 msgid "There is an update available for: %1$s."
 msgid_plural "There are updates available for the following plugins: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: plugin name(s).
-#: inc/TGM/class-tgm-plugin-activation.php:358
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:372
 msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: plugin name(s).
-#: inc/TGM/class-tgm-plugin-activation.php:364
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:378
 msgid "The following recommended plugin is currently inactive: %1$s."
 msgid_plural "The following recommended plugins are currently inactive: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:370
+#: inc/TGM/class-tgm-plugin-activation.php:383
 msgid "Begin installing plugin"
 msgid_plural "Begin installing plugins"
 msgstr[0] ""
 msgstr[1] ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:375
+#: inc/TGM/class-tgm-plugin-activation.php:388
 msgid "Begin updating plugin"
 msgid_plural "Begin updating plugins"
 msgstr[0] ""
 msgstr[1] ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:380
+#: inc/TGM/class-tgm-plugin-activation.php:393
 msgid "Begin activating plugin"
 msgid_plural "Begin activating plugins"
 msgstr[0] ""
 msgstr[1] ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:385
+#: inc/TGM/class-tgm-plugin-activation.php:398
 msgid "Return to Required Plugins Installer"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:386
-#: inc/TGM/class-tgm-plugin-activation.php:827
-#: inc/TGM/class-tgm-plugin-activation.php:2533
-#: inc/TGM/class-tgm-plugin-activation.php:3580
+#: inc/TGM/class-tgm-plugin-activation.php:399
 msgid "Return to the Dashboard"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:387
-#: inc/TGM/class-tgm-plugin-activation.php:3159
+#: inc/TGM/class-tgm-plugin-activation.php:400
+#: inc/TGM/class-tgm-plugin-activation.php:3311
 msgid "Plugin activated successfully."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:388
-#: inc/TGM/class-tgm-plugin-activation.php:2952
+#: inc/TGM/class-tgm-plugin-activation.php:401
+#: inc/TGM/class-tgm-plugin-activation.php:3103
 msgid "The following plugin was activated successfully:"
 msgid_plural "The following plugins were activated successfully:"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: plugin name.
-#: inc/TGM/class-tgm-plugin-activation.php:390
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:403
 msgid "No action taken. Plugin %1$s was already active."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: inc/TGM/class-tgm-plugin-activation.php:392
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:405
 msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
 msgstr ""
 
 #. translators: 1: dashboard link.
-#: inc/TGM/class-tgm-plugin-activation.php:394
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:407
 msgid "All plugins installed and activated successfully. %1$s"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:395
+#: inc/TGM/class-tgm-plugin-activation.php:408
 msgid "Dismiss this notice"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:396
+#: inc/TGM/class-tgm-plugin-activation.php:409
 msgid "There are one or more required or recommended plugins to install, update or activate."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:397
+#: inc/TGM/class-tgm-plugin-activation.php:410
 msgid "Please contact the administrator of this site for help."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:522
+#: inc/TGM/class-tgm-plugin-activation.php:616
 msgid "This plugin needs to be updated to be compatible with your theme."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:523
+#: inc/TGM/class-tgm-plugin-activation.php:617
 msgid "Update Required"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:934
+#: inc/TGM/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:1042
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:934
-#: inc/TGM/class-tgm-plugin-activation.php:937
+#: inc/TGM/class-tgm-plugin-activation.php:1042
+#: inc/TGM/class-tgm-plugin-activation.php:1052
 msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:937
+#: inc/TGM/class-tgm-plugin-activation.php:1052
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:1121
-#: inc/TGM/class-tgm-plugin-activation.php:2948
+#: inc/TGM/class-tgm-plugin-activation.php:1243
+#: inc/TGM/class-tgm-plugin-activation.php:3099
 msgctxt "plugin A *and* plugin B"
 msgid "and"
 msgstr ""
 
 #. translators: %s: version number
-#: inc/TGM/class-tgm-plugin-activation.php:1982
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:2112
 msgid "TGMPA v%s"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2273
+#: inc/TGM/class-tgm-plugin-activation.php:2421
 msgid "Required"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2276
+#: inc/TGM/class-tgm-plugin-activation.php:2424
 msgid "Recommended"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2292
+#: inc/TGM/class-tgm-plugin-activation.php:2440
 msgid "WordPress Repository"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2295
+#: inc/TGM/class-tgm-plugin-activation.php:2443
 msgid "External Source"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2298
+#: inc/TGM/class-tgm-plugin-activation.php:2446
 msgid "Pre-Packaged"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2315
+#: inc/TGM/class-tgm-plugin-activation.php:2463
 msgid "Not Installed"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2319
+#: inc/TGM/class-tgm-plugin-activation.php:2467
 msgid "Installed But Not Activated"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2321
+#: inc/TGM/class-tgm-plugin-activation.php:2469
 msgid "Active"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2327
+#: inc/TGM/class-tgm-plugin-activation.php:2475
 msgid "Required Update not Available"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2330
+#: inc/TGM/class-tgm-plugin-activation.php:2478
 msgid "Requires Update"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2333
+#: inc/TGM/class-tgm-plugin-activation.php:2481
 msgid "Update recommended"
 msgstr ""
 
 #. translators: 1: install status, 2: update status
-#: inc/TGM/class-tgm-plugin-activation.php:2342
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:2490
 msgctxt "Install/Update Status"
 msgid "%1$s, %2$s"
 msgstr ""
 
 #. translators: 1: number of plugins.
-#: inc/TGM/class-tgm-plugin-activation.php:2388
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:2536
 msgctxt "plugins"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
@@ -480,200 +470,183 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: number of plugins.
-#: inc/TGM/class-tgm-plugin-activation.php:2392
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:2540
 msgid "To Install <span class=\"count\">(%s)</span>"
 msgid_plural "To Install <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: number of plugins.
-#: inc/TGM/class-tgm-plugin-activation.php:2396
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:2544
 msgid "Update Available <span class=\"count\">(%s)</span>"
 msgid_plural "Update Available <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: number of plugins.
-#: inc/TGM/class-tgm-plugin-activation.php:2400
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:2548
 msgid "To Activate <span class=\"count\">(%s)</span>"
 msgid_plural "To Activate <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2482
+#: inc/TGM/class-tgm-plugin-activation.php:2630
 msgctxt "as in: \"version nr unknown\""
 msgid "unknown"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2490
+#: inc/TGM/class-tgm-plugin-activation.php:2638
 msgid "Installed version:"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2498
+#: inc/TGM/class-tgm-plugin-activation.php:2646
 msgid "Minimum required version:"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2510
+#: inc/TGM/class-tgm-plugin-activation.php:2658
 msgid "Available version:"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2533
+#: inc/TGM/class-tgm-plugin-activation.php:2681
 msgid "No plugins to install, update or activate."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2547
+#: inc/TGM/class-tgm-plugin-activation.php:2695
 msgid "Plugin"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2548
+#: inc/TGM/class-tgm-plugin-activation.php:2696
 msgid "Source"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2549
+#: inc/TGM/class-tgm-plugin-activation.php:2697
 msgid "Type"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2553
+#: inc/TGM/class-tgm-plugin-activation.php:2701
 msgid "Version"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2554
+#: inc/TGM/class-tgm-plugin-activation.php:2702
 msgid "Status"
 msgstr ""
 
 #. translators: %2$s: plugin name in screen reader markup
-#: inc/TGM/class-tgm-plugin-activation.php:2603
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:2751
 msgid "Install %2$s"
 msgstr ""
 
 #. translators: %2$s: plugin name in screen reader markup
-#: inc/TGM/class-tgm-plugin-activation.php:2608
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:2756
 msgid "Update %2$s"
 msgstr ""
 
 #. translators: %2$s: plugin name in screen reader markup
-#: inc/TGM/class-tgm-plugin-activation.php:2614
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:2762
 msgid "Activate %2$s"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2684
+#: inc/TGM/class-tgm-plugin-activation.php:2834
 msgid "Upgrade message from the plugin author:"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2717
+#: inc/TGM/class-tgm-plugin-activation.php:2867
 msgid "Install"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2723
+#: inc/TGM/class-tgm-plugin-activation.php:2873
 msgid "Update"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2726
+#: inc/TGM/class-tgm-plugin-activation.php:2876
 msgid "Activate"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2757
+#: inc/TGM/class-tgm-plugin-activation.php:2907
 msgid "No plugins were selected to be installed. No action taken."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2759
+#: inc/TGM/class-tgm-plugin-activation.php:2909
 msgid "No plugins were selected to be updated. No action taken."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2800
+#: inc/TGM/class-tgm-plugin-activation.php:2950
 msgid "No plugins are available to be installed at this time."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2802
+#: inc/TGM/class-tgm-plugin-activation.php:2952
 msgid "No plugins are available to be updated at this time."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2908
+#: inc/TGM/class-tgm-plugin-activation.php:3059
 msgid "No plugins were selected to be activated. No action taken."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:2934
+#: inc/TGM/class-tgm-plugin-activation.php:3085
 msgid "No plugins are available to be activated at this time."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:3158
+#: inc/TGM/class-tgm-plugin-activation.php:3310
 msgid "Plugin activation failed."
 msgstr ""
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: inc/TGM/class-tgm-plugin-activation.php:3498
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:3655
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
 #. translators: 1: plugin name, 2: error message.
-#: inc/TGM/class-tgm-plugin-activation.php:3501
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:3658
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: inc/TGM/class-tgm-plugin-activation.php:3503
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:3660
 msgid "The installation of %1$s failed."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:3507
+#: inc/TGM/class-tgm-plugin-activation.php:3664
 msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: inc/TGM/class-tgm-plugin-activation.php:3509
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:3666
 msgid "%1$s installed and activated successfully."
 msgstr ""
 
-#. translators: 1: plugin name.
-#: inc/TGM/class-tgm-plugin-activation.php:3509
-#: inc/TGM/class-tgm-plugin-activation.php:3517
-msgid "Show Details"
-msgstr ""
-
-#. translators: 1: plugin name.
-#: inc/TGM/class-tgm-plugin-activation.php:3509
-#: inc/TGM/class-tgm-plugin-activation.php:3517
-msgid "Hide Details"
-msgstr ""
-
-#: inc/TGM/class-tgm-plugin-activation.php:3510
+#: inc/TGM/class-tgm-plugin-activation.php:3667
 msgid "All installations and activations have been completed."
 msgstr ""
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: inc/TGM/class-tgm-plugin-activation.php:3512
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:3669
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:3515
+#: inc/TGM/class-tgm-plugin-activation.php:3672
 msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: inc/TGM/class-tgm-plugin-activation.php:3517
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:3674
 msgid "%1$s installed successfully."
 msgstr ""
 
-#: inc/TGM/class-tgm-plugin-activation.php:3518
+#: inc/TGM/class-tgm-plugin-activation.php:3675
 msgid "All installations have been completed."
 msgstr ""
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: inc/TGM/class-tgm-plugin-activation.php:3520
-#, php-format
+#: inc/TGM/class-tgm-plugin-activation.php:3677
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
 msgstr ""
 
 #: patterns/404.php
@@ -702,11 +675,11 @@ msgctxt "Pattern title"
 msgid "About Us"
 msgstr ""
 
-#: patterns/about-us.php:15
+#: patterns/about-us.php:16
 msgid "about us"
 msgstr ""
 
-#: patterns/about-us.php:19
+#: patterns/about-us.php:20
 #: patterns/footer.php:22
 #: patterns/latest-news.php:19
 #: patterns/our-services.php:15
@@ -717,12 +690,12 @@ msgstr ""
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
 msgstr ""
 
-#: patterns/about-us.php:23
+#: patterns/about-us.php:24
 #: patterns/profit-graph.php:23
 msgid "Curabitur fringilla ipsum massa, sed dignissim est venenatis nec."
 msgstr ""
 
-#: patterns/about-us.php:27
+#: patterns/about-us.php:28
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis euismod tortor. Nullam vitae eleifend diam, non ultrices erat. Vivamus nibh enim, maximus eu urna nec, commodo laoreet neque. Ut sit amet gravida diam. Ut egestas nec diam et tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur fringilla ipsum massa, sed dignissim est venenatis nec. Nullam lobortis nisl sit amet erat finibus elementum a in sapien."
 msgstr ""
 
@@ -861,8 +834,17 @@ msgctxt "Pattern title"
 msgid "Header"
 msgstr ""
 
-#: patterns/header.php:94
+#: patterns/header.php:84
 msgid "Let’s Talk"
+msgstr ""
+
+#: patterns/index-header-image.php
+msgctxt "Pattern title"
+msgid "Index Header Image"
+msgstr ""
+
+#: patterns/index-header-image.php:11
+msgid "blog"
 msgstr ""
 
 #: patterns/latest-news.php
@@ -1040,14 +1022,18 @@ msgid "Categories"
 msgstr ""
 
 #: patterns/sidebar.php:48
-msgid "Archives"
+msgid "Pages"
 msgstr ""
 
 #: patterns/sidebar.php:58
-msgid "Tags"
+msgid "Archives"
 msgstr ""
 
 #: patterns/sidebar.php:68
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:78
 msgid "Follow Us"
 msgstr ""
 
@@ -1107,6 +1093,215 @@ msgstr ""
 #: patterns/trust-us.php:40
 #: patterns/trust-us.php:50
 msgid "Lorem ipsum: 1(868) 225-6155"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Light"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Ternary"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Footer Bg"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/dark.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/salmon.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Sidebar Shadow Color"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr ""
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr ""
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr ""
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr ""
+
+#: styles/salmon.json
+msgctxt "Style variation name"
+msgid "Salmon"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
 msgstr ""
 
 #: theme.json
@@ -1232,123 +1427,6 @@ msgstr ""
 #: theme.json
 msgctxt "Gradient name"
 msgid "Diagonal primary to ternary"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Base"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Primary"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Primary Light"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Ternary"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Headings"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Body Text"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Section Background"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Secondary"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Background"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Foreground"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Footer Bg"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Border Color"
-msgstr ""
-
-#: theme.json
-#: styles/dark.json
-#: styles/green.json
-#: styles/salmon.json
-#: styles/yellow.json
-msgctxt "Color name"
-msgid "Sidebar Shadow Color"
 msgstr ""
 
 #: theme.json
@@ -1499,24 +1577,4 @@ msgstr ""
 #: theme.json
 msgctxt "Custom template name"
 msgid "Post No Header Image"
-msgstr ""
-
-#: styles/dark.json
-msgctxt "Style variation name"
-msgid "Dark"
-msgstr ""
-
-#: styles/green.json
-msgctxt "Style variation name"
-msgid "Green"
-msgstr ""
-
-#: styles/salmon.json
-msgctxt "Style variation name"
-msgid "Salmon"
-msgstr ""
-
-#: styles/yellow.json
-msgctxt "Style variation name"
-msgid "Yellow"
 msgstr ""

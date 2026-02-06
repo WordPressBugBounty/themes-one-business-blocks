@@ -45,6 +45,16 @@
 <!-- wp:group {"className":"wow zoomIn sidebar-box","style":{"spacing":{"padding":{"top":"20px","bottom":"20px","left":"20px","right":"20px"},"margin":{"bottom":"50px"}},"border":{"radius":"10px","top":{"color":"var:preset|color|primary","width":"4px"},"bottom":{"color":"var:preset|color|primary","width":"4px"}}},"backgroundColor":"section-bg","layout":{"type":"constrained"}} -->
 <div class="wp-block-group wow zoomIn sidebar-box has-section-bg-background-color has-background" style="border-radius:10px;border-top-color:var(--wp--preset--color--primary);border-top-width:4px;border-bottom-color:var(--wp--preset--color--primary);border-bottom-width:4px;margin-bottom:50px;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><!-- wp:group {"className":"sidebar-heading","style":{"spacing":{"padding":{"top":"8px","bottom":"8px","left":"8px","right":"8px"}},"border":{"width":"1px"}},"backgroundColor":"background","borderColor":"primary","layout":{"type":"constrained"}} -->
 <div class="wp-block-group sidebar-heading has-border-color has-primary-border-color has-background-background-color has-background" style="border-width:1px;padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px"><!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"letterSpacing":"1px"}}} -->
+<h4 class="wp-block-heading has-text-align-center" style="letter-spacing:1px"><?php esc_html_e('Pages','one-business-blocks'); ?></h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:page-list {"style":{"spacing":{"padding":{"left":"var:preset|spacing|40"}}}} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"wow zoomIn sidebar-box","style":{"spacing":{"padding":{"top":"20px","bottom":"20px","left":"20px","right":"20px"},"margin":{"bottom":"50px"}},"border":{"radius":"10px","top":{"color":"var:preset|color|primary","width":"4px"},"bottom":{"color":"var:preset|color|primary","width":"4px"}}},"backgroundColor":"section-bg","layout":{"type":"constrained"}} -->
+<div class="wp-block-group wow zoomIn sidebar-box has-section-bg-background-color has-background" style="border-radius:10px;border-top-color:var(--wp--preset--color--primary);border-top-width:4px;border-bottom-color:var(--wp--preset--color--primary);border-bottom-width:4px;margin-bottom:50px;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><!-- wp:group {"className":"sidebar-heading","style":{"spacing":{"padding":{"top":"8px","bottom":"8px","left":"8px","right":"8px"}},"border":{"width":"1px"}},"backgroundColor":"background","borderColor":"primary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group sidebar-heading has-border-color has-primary-border-color has-background-background-color has-background" style="border-width:1px;padding-top:8px;padding-right:8px;padding-bottom:8px;padding-left:8px"><!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"letterSpacing":"1px"}}} -->
 <h4 class="wp-block-heading has-text-align-center" style="letter-spacing:1px"><?php esc_html_e('Archives','one-business-blocks'); ?></h4>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->

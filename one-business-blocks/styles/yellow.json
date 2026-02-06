@@ -72,17 +72,5 @@
             }
         ]
     }
-  },
-   "styles": {
-    "elements": {
-      "heading": {
-        "typography": {
-          "fontFamily": "var(--wp--preset--font-family--inter)"
-        }
-      }
-    },
-    "typography": {
-      "fontFamily": "var(--wp--preset--font-family--inter)"
-    }
   }
 }

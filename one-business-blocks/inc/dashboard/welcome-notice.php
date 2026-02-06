@@ -213,8 +213,8 @@ function one_business_blocks_custom_admin_notice() {
                     </div>
                     <div class="notice-buttons-box">
                         <a class="button-primary livedemo" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_LIVE_DEMO ); ?>" target="_blank"><?php esc_html_e('Live Demo', 'one-business-blocks'); ?></a>
-                        <a class="button-primary buynow" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUY_PRO ); ?>" target="_blank"><?php esc_html_e('Buy Now', 'one-business-blocks'); ?></a>
-                        <a class="button-primary theme-install" id="install-activate-button" href="#"><?php _e('Begin Installation', 'one-business-blocks'); ?></a>`
+                        <a class="button-primary buynow" href="<?php echo esc_url( ONE_BUSINESS_BLOCKS_BUY_PRO ); ?>" target="_blank"><?php esc_html_e('Get Pro Theme', 'one-business-blocks'); ?></a>
+                        <a class="button-primary theme-install" id="install-activate-button" href="#"><?php _e('Begin Installation', 'one-business-blocks'); ?></a>
                     </div>
                 </div>
             </div>

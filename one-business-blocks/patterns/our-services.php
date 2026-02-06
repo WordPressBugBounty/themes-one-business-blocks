@@ -7,8 +7,8 @@
 ?>
 
 <!-- wp:group {"tagName":"main","className":"service-section","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"75%"}} -->
-<main class="wp-block-group service-section" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","level":3,"className":"wow bounceInDown delay-1000","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textTransform":"uppercase"}},"textColor":"primary"} -->
-<h3 class="wp-block-heading has-text-align-center wow bounceInDown delay-1000 has-primary-color has-text-color has-link-color" style="text-transform:uppercase"><?php esc_html_e('our services','one-business-blocks'); ?></h3>
+<main class="wp-block-group service-section" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","className":"wow bounceInDown delay-1000","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textTransform":"uppercase"}},"textColor":"primary","fontSize":"large"} -->
+<h2 class="wp-block-heading has-text-align-center wow bounceInDown delay-1000 has-primary-color has-text-color has-link-color has-large-font-size" style="text-transform:uppercase"><?php esc_html_e('our services','one-business-blocks'); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|heading"}}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"heading","fontSize":"regular"} -->
@@ -26,8 +26,8 @@
 <figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/service-icon1.png'); ?>" alt="" class="wp-image-157"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":6,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h6 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('tax advantages','one-business-blocks'); ?></h6>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('tax advantages','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"className":"service-seperator","style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"primary"} -->
@@ -46,8 +46,8 @@
 <figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/service-icon2.png'); ?>" alt="" class="wp-image-158"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":6,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h6 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Authorise Company','one-business-blocks'); ?></h6>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Authorise Company','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"className":"service-seperator","style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"primary"} -->
@@ -66,8 +66,8 @@
 <figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/service-icon3.png'); ?>" alt="" class="wp-image-155"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":6,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h6 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Finance Advices','one-business-blocks'); ?></h6>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Finance Advices','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"className":"service-seperator","style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"primary"} -->
@@ -86,8 +86,8 @@
 <figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/service-icon4.png'); ?>" alt="" class="wp-image-156"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":6,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h6 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('tax planning','one-business-blocks'); ?></h6>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('tax planning','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"className":"service-seperator","style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"primary"} -->

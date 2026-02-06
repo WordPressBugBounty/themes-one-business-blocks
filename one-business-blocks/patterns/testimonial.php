@@ -11,8 +11,8 @@
 <div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","level":3,"className":"wow bounceInDown","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textTransform":"uppercase"}},"textColor":"primary"} -->
-<h3 class="wp-block-heading has-text-align-center wow bounceInDown has-primary-color has-text-color has-link-color" style="text-transform:uppercase"><?php esc_html_e('testimonials','one-business-blocks'); ?></h3>
+<!-- wp:heading {"textAlign":"center","className":"wow bounceInDown","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textTransform":"uppercase"}},"textColor":"primary","fontSize":"large"} -->
+<h2 class="wp-block-heading has-text-align-center wow bounceInDown has-primary-color has-text-color has-link-color has-large-font-size" style="text-transform:uppercase"><?php esc_html_e('testimonials','one-business-blocks'); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|heading"}}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"heading","fontSize":"regular"} -->

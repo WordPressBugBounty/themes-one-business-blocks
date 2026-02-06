@@ -68,16 +68,6 @@
 
 <!-- wp:navigation-link {"label":"Services","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"About","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
-
-<!-- wp:navigation-link {"label":"Project","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
-
-<!-- wp:navigation-submenu {"label":"Pages","type":"","url":"#","kind":"custom"} -->
-	<!-- wp:navigation-link {"label":"Page 1","type":"","url":"#","kind":"custom","className":""} /-->
-
-	<!-- wp:navigation-link {"label":"Page 2","type":"","url":"#","kind":"custom","className":""} /-->
-<!-- /wp:navigation-submenu -->
-
 <!-- wp:navigation-link {"label":"Blog","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
 
 <!-- wp:navigation-link {"label":"BUY NOW","type":"link","opensInNewTab":true,"url":"https://www.ovationthemes.com/products/wordpress-business-theme","kind":"custom","className":"buynow"} /-->

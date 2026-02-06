@@ -7,8 +7,8 @@
 ?>
 
 <!-- wp:group {"className":"skill-section has-background-background-color has-background"} -->
-<div class="wp-block-group skill-section has-background-background-color has-background"><!-- wp:heading {"textAlign":"center","level":3,"className":"wow bounceInDown","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textTransform":"uppercase"}},"textColor":"primary"} -->
-<h3 class="wp-block-heading has-text-align-center wow bounceInDown has-primary-color has-text-color has-link-color" style="text-transform:uppercase"><?php esc_html_e('our skills','one-business-blocks'); ?></h3>
+<div class="wp-block-group skill-section has-background-background-color has-background"><!-- wp:heading {"textAlign":"center","className":"wow bounceInDown","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textTransform":"uppercase"}},"textColor":"primary","fontSize":"large"} -->
+<h2 class="wp-block-heading has-text-align-center wow bounceInDown has-primary-color has-text-color has-link-color has-large-font-size" style="text-transform:uppercase"><?php esc_html_e('our skills','one-business-blocks'); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|heading"}}},"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"heading","fontSize":"regular"} -->
@@ -26,8 +26,8 @@
 <figure class="wp-block-image aligncenter size-full skill-img"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/icon1.png'); ?>" alt="" class="wp-image-323"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h5 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Best Financial Advice','one-business-blocks'); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Best Financial Advice','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -42,8 +42,8 @@
 <figure class="wp-block-image aligncenter size-full skill-img"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/icon2.png'); ?>" alt="" class="wp-image-324"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h5 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Authorised Finance Brand','one-business-blocks'); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Authorised Finance Brand','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -58,8 +58,8 @@
 <figure class="wp-block-image aligncenter size-full skill-img"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/icon3.png'); ?>" alt="" class="wp-image-325"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h5 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Leadership Work','one-business-blocks'); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Leadership Work','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -74,8 +74,8 @@
 <figure class="wp-block-image aligncenter size-full skill-img"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/icon4.png'); ?>" alt="" class="wp-image-326"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h5 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Compehensive Advices','one-business-blocks'); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Compehensive Advices','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -96,8 +96,8 @@
 <figure class="wp-block-image aligncenter size-full skill-img"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/icon5.png'); ?>" alt="" class="wp-image-327"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h5 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Monitoring &amp; Review','one-business-blocks'); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Monitoring &amp; Review','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -112,8 +112,8 @@
 <figure class="wp-block-image aligncenter size-full skill-img"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/icon6.png'); ?>" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h5 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Finance Advices','one-business-blocks'); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Finance Advices','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -128,8 +128,8 @@
 <figure class="wp-block-image aligncenter size-full skill-img"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/icon7.png'); ?>" alt="" class="wp-image-329"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h5 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Business Growth','one-business-blocks'); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Business Growth','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -144,8 +144,8 @@
 <figure class="wp-block-image aligncenter size-full skill-img"><img src="<?php echo esc_url( get_template_directory_uri() . '/images/icon8.png'); ?>" alt="" class="wp-image-330"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary"} -->
-<h5 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color" style="text-transform:capitalize"><?php esc_html_e('Success fullfill','one-business-blocks'); ?></h5>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"textTransform":"capitalize"}},"textColor":"secondary","fontSize":"medium"} -->
+<h3 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-medium-font-size" style="text-transform:capitalize"><?php esc_html_e('Success fullfill','one-business-blocks'); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->

@@ -1,6 +1,6 @@
 {
   "$schema": "https://schemas.wp.org/trunk/theme.json",
-  "title": "Green",
+  "title": "Red",
   "version": 2,
   "settings": {
     "color": {
@@ -11,7 +11,7 @@
                 "slug": "base"
             },
             {
-                "color": "#17965F",
+                "color": "#96171B",
                 "name": "Primary",
                 "slug": "primary"
             },
