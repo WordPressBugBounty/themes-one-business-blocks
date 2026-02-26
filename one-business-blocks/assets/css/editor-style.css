@@ -40,7 +40,6 @@ select {
     margin: 0;
     padding: 10px 15px;
     border: 1px solid var(--wp--preset--color--border-color);
-    outline: 0;
     resize: none;
     line-height: 20px;
     background: none;
@@ -92,7 +91,6 @@ input[type="submit"] {
     appearance: button;
     cursor: pointer;
     border: none;
-    outline: none;
     padding: 12px 20px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;

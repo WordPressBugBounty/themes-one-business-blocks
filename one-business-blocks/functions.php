@@ -69,9 +69,9 @@ function one_business_blocks_scripts() {
     wp_style_add_data( 'one-business-blocks-basic-style', 'rtl', 'replace' );
 
     //homepage slider
-	wp_enqueue_style('one-business-blocks-swiper-bundle-css', get_template_directory_uri() . '/assets/css/swiper-bundle.css', array(), ONE_BUSINESS_BLOCKS_VERSION);
+	wp_enqueue_style('swiper-bundle-css', get_template_directory_uri() . '/assets/css/swiper-bundle.css', array(), ONE_BUSINESS_BLOCKS_VERSION);
 
-	wp_enqueue_script('one-business-blocks-swiper-bundle-js', get_template_directory_uri() . '/assets/js/swiper-bundle.js', array('jquery'), ONE_BUSINESS_BLOCKS_VERSION, true);
+	wp_enqueue_script('swiper-bundle-js', get_template_directory_uri() . '/assets/js/swiper-bundle.js', array('jquery'), ONE_BUSINESS_BLOCKS_VERSION, true);
 
 	// script.js
 	wp_enqueue_script('one-business-blocks-main-script', get_template_directory_uri() . '/assets/js/script.js', array('jquery'), ONE_BUSINESS_BLOCKS_VERSION, true);
