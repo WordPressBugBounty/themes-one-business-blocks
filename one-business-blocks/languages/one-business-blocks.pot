@@ -2,14 +2,14 @@
 # This file is distributed under the GNU General Public License.
 msgid ""
 msgstr ""
-"Project-Id-Version: One Business Blocks 4.3\n"
+"Project-Id-Version: One Business Blocks 4.5\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/one-business-blocks\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-02-11T18:42:18+05:30\n"
+"POT-Creation-Date: 2026-03-23T05:09:08+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: one-business-blocks\n"
@@ -52,198 +52,409 @@ msgstr ""
 msgid "Enable Animations"
 msgstr ""
 
-#: inc/customizer/customizer.php:15
-#: inc/customizer/customizer.php:23
-msgid "ONE BUSINESS PREMIUM"
+#: inc/admin/theme-upsell.php:16
+msgid "One Business Blocks Pro"
 msgstr ""
 
-#: inc/customizer/customizer.php:32
-#: inc/dashboard/dashboard.php:18
-msgid "https://www.ovationthemes.com/products/wordpress-business-theme"
+#: inc/admin/theme-upsell.php:29
+msgid "Upgrade to One Business Blocks Pro 🚀"
 msgstr ""
 
-#: inc/customizer/customizer.php:34
-#: inc/dashboard/dashboard.php:30
-msgid "https://www.ovationthemes.com/products/wordpress-bundle"
+#: inc/admin/theme-upsell.php:34
+msgid "Take Your Business to the Next Level"
 msgstr ""
 
-#: inc/customizer/customizer.php:43
-msgid "UPGRADE ONE BUSINESS PREMIUM"
+#: inc/admin/theme-upsell.php:35
+msgid "Get access to premium features, advanced layouts, and priority support"
 msgstr ""
 
-#: inc/customizer/customizer.php:50
-#: inc/dashboard/dashboard.php:89
-msgid "Responsive Design"
+#: inc/admin/theme-upsell.php:42
+msgid "Site Editor"
 msgstr ""
 
-#: inc/customizer/customizer.php:51
-#: inc/dashboard/dashboard.php:90
-msgid "Demo Importer"
+#: inc/admin/theme-upsell.php:47
+msgid "Customize"
 msgstr ""
 
-#: inc/customizer/customizer.php:52
-#: inc/dashboard/dashboard.php:91
-msgid "Section Reordering"
-msgstr ""
-
-#: inc/customizer/customizer.php:53
-#: inc/dashboard/dashboard.php:92
-msgid "Contact Page Template"
-msgstr ""
-
-#: inc/customizer/customizer.php:54
-#: inc/dashboard/dashboard.php:93
-msgid "Multiple Blog Layouts"
-msgstr ""
-
-#: inc/customizer/customizer.php:55
-#: inc/dashboard/dashboard.php:94
-msgid "Unlimited Color Options"
-msgstr ""
-
-#: inc/customizer/customizer.php:56
-#: inc/dashboard/dashboard.php:95
-msgid "Cross Browser Support"
-msgstr ""
-
-#: inc/customizer/customizer.php:57
-#: inc/dashboard/dashboard.php:96
-msgid "Detailed Documentation Included"
-msgstr ""
-
-#: inc/customizer/customizer.php:58
-#: inc/dashboard/dashboard.php:97
-msgid "WPML Compatible (Translation Ready)"
-msgstr ""
-
-#: inc/customizer/customizer.php:59
-#: inc/dashboard/dashboard.php:98
-msgid "Woo-commerce Compatible"
-msgstr ""
-
-#: inc/customizer/customizer.php:60
-#: inc/dashboard/dashboard.php:99
-msgid "Full Support"
-msgstr ""
-
-#: inc/customizer/customizer.php:61
-#: inc/dashboard/dashboard.php:100
-msgid "10+ Sections"
-msgstr ""
-
-#: inc/customizer/customizer.php:62
-#: inc/dashboard/dashboard.php:101
-msgid "SEO Friendly"
-msgstr ""
-
-#: inc/customizer/customizer.php:63
-#: inc/dashboard/dashboard.php:102
-msgid "Supper Fast"
-msgstr ""
-
-#: inc/customizer/customizer.php:67
-msgid "WP Theme Bundle (125+ Themes)"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:5
+#: inc/admin/theme-upsell.php:55
 #: inc/dashboard/welcome-notice.php:217
 msgid "Begin Installation"
 msgstr ""
 
-#: inc/dashboard/dashboard.php:9
-msgid "https://wordpress.org/support/theme/one-business-blocks/"
+#: inc/admin/theme-upsell.php:59
+msgid "View Site"
 msgstr ""
 
-#: inc/dashboard/dashboard.php:12
-msgid "https://wordpress.org/support/theme/one-business-blocks/reviews/"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:15
-msgid "https://trial.ovationthemes.com/ovation-one-login-business-pro/"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:21
-msgid "https://trial.ovationthemes.com/docs/ot-one-login-business-pro/"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:24
-msgid "https://trial.ovationthemes.com/docs/ot-one-business-blocks-free-doc/"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:27
-msgid "Premium One Business Blocks Theme"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:44
-msgid "Version: "
-msgstr ""
-
-#: inc/dashboard/dashboard.php:48
-#: inc/dashboard/dashboard.php:59
-#: inc/dashboard/dashboard.php:74
-#: inc/dashboard/dashboard.php:84
-msgid "Documentation"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:49
-msgid "Support"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:50
-msgid "Review"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:64
-#: inc/dashboard/dashboard.php:66
-msgid "Edit Your Site"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:65
-msgid "Now create your website with easy drag and drop powered by gutenburg."
-msgstr ""
-
-#: inc/dashboard/dashboard.php:68
-#: inc/dashboard/dashboard.php:70
-msgid "Visit Your Site"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:69
-msgid "To check your website click here"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:72
-msgid "Theme Documentation"
-msgstr ""
-
-#: inc/dashboard/dashboard.php:73
-msgid "Check the theme documentation to easily set up your website."
-msgstr ""
-
-#: inc/dashboard/dashboard.php:82
-#: inc/dashboard/welcome-notice.php:215
+#: inc/admin/theme-upsell.php:67
+#: inc/dashboard/welcome-notice.php:221
 msgid "Live Demo"
 msgstr ""
 
-#: inc/dashboard/dashboard.php:83
-msgid "Buy Now"
+#: inc/admin/theme-upsell.php:71
+#: inc/dashboard/welcome-notice.php:222
+msgid "Get Pro Theme"
 msgstr ""
 
-#: inc/dashboard/dashboard.php:86
-msgid "WordPress Theme Bundle (125+ Themes at Just $89)"
+#: inc/admin/theme-upsell.php:75
+msgid "Documentation"
 msgstr ""
 
-#: inc/dashboard/welcome-notice.php:52
-#: inc/dashboard/welcome-notice.php:90
+#: inc/admin/theme-upsell.php:79
+msgid "WordPress Theme Bundle"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:84
+msgid "One Business Blocks Theme Screenshot"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:90
+msgid "Why Upgrade to Pro?"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:95
+msgid "Different styling Options"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:96
+msgid "This content will change based on different styling options."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:101
+msgid "Section Reordering Option"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:102
+msgid "Sections can be reordered or rearranged as per your preference."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:107
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:108
+msgid "Create custom footers with advanced widgets"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:113
+#: inc/admin/theme-upsell.php:168
+#: inc/customizer/customizer.php:32
+msgid "Typography Controls"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:114
+msgid "Full control over fonts, sizes, and text styling"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:119
+#: inc/admin/theme-upsell.php:173
+msgid "WooCommerce Styling"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:120
+msgid "Advanced WooCommerce integration with custom product layouts"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:125
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:126
+msgid "Advanced theme options available for themes"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:131
+msgid "Performance Optimized"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:132
+msgid "3X faster loading with optimized code and assets"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:137
+#: inc/admin/theme-upsell.php:193
+#: inc/customizer/customizer.php:34
+msgid "Priority Support"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:138
+msgid "Get expert help within 24 hours through our priority support system"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:143
+msgid "Unlimited Color Schemes"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:144
+msgid "Customize every color to match your brand identity with unlimited color options"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:149
+#: inc/customizer/customizer.php:35
+msgid "One-Click Demo Import"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:150
+msgid "Import complete demo content with just one click and get started instantly"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:156
+msgid "Free vs Pro Comparison"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:161
+msgid "Feature"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:162
+msgid "Free"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:163
+msgid "Pro"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:169
+#: inc/admin/theme-upsell.php:184
+msgid "Limited"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:170
+msgid "Full Control"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:178
+msgid "Custom Widgets"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:179
+msgid "Basic"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:180
+#: inc/admin/theme-upsell.php:225
+msgid "Advanced"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:183
+msgid "Color Schemes"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:185
+msgid "Unlimited"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:188
+msgid "Demo Import"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:198
+msgid "Custom Post Types"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:203
+msgid "Page Builder Integration"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:204
+msgid "Gutenberg"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:205
+msgid "Gutenberg/Customizer"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:208
+msgid "Speed Optimization"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:209
+msgid "Standard"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:210
+msgid "Advanced (3X Faster)"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:213
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:218
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:223
+msgid "Blog Layouts"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:224
+msgid "1"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:232
+msgid "What Our Users Say"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:237
+msgid "\"I was looking for a clean and professional theme for my one business website and this theme delivered exactly that. Setup was quick and the layout looks very modern.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:238
+msgid "- John D."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:243
+msgid "\"The theme design is professional and easy to customize. The documentation helped me set up my accounting website without any issues.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:244
+msgid "- Sarah M."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:249
+msgid "\"Very flexible and beginner-friendly. I was able to adjust colors, sections, and layouts directly from the Customizer. Highly recommended.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:250
+msgid "- Michael R."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:255
+msgid "\"The mobile responsive design works perfectly. Most of my clients visit from their phones, and the site looks clean and professional.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:256
+msgid "- Emily T."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:261
+msgid "\"Great theme for tax professionals. The service sections and homepage layout helped me present my services clearly to potential clients.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:262
+msgid "- David L."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:267
+msgid "\"Customer support is very helpful and responsive. They guided me during setup and solved my issue quickly.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:268
+msgid "- Jennifer K."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:273
+msgid "\"Fast loading and SEO friendly. After launching my website with this theme, I started receiving more inquiries from clients.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:274
+msgid "- Robert H."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:279
+msgid "\"A very good theme with useful features for one businesses. Easy to install and configure.\""
+msgstr ""
+
+#: inc/admin/theme-upsell.php:280
+msgid "- Lisa P."
+msgstr ""
+
+#: inc/admin/theme-upsell.php:286
+msgid "Ready to Upgrade?"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:287
+msgid "Join hundreds of satisfied customers who upgraded to Pro"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:289
+msgid "Get One Business Blocks Pro Now"
+msgstr ""
+
+#: inc/admin/theme-upsell.php:294
+msgid "Need help? Contact our <a href=\"%s\" target=\"_blank\">support</a> team anytime."
+msgstr ""
+
+#: inc/customizer/customizer.php:14
+msgid "🔒 Unlock Premium Features"
+msgstr ""
+
+#: inc/customizer/customizer.php:27
+msgid "Unlock Advanced Features"
+msgstr ""
+
+#: inc/customizer/customizer.php:28
+msgid "Upgrade to Pro to get:"
+msgstr ""
+
+#: inc/customizer/customizer.php:30
+msgid "12+ Premium Header Layouts"
+msgstr ""
+
+#: inc/customizer/customizer.php:31
+msgid "Advanced Footer Builder"
+msgstr ""
+
+#: inc/customizer/customizer.php:33
+msgid "WooCommerce Styling Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "View All Features"
+msgstr ""
+
+#: inc/customizer/customizer.php:43
+msgid "Upgrade Now 🚀"
+msgstr ""
+
+#: inc/customizer/customizer.php:47
+msgid "WordPress Bundle 🎁"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:4
+msgid "https://wordpress.org/support/theme/one-business-blocks/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:7
+msgid "https://wordpress.org/support/theme/one-business-blocks/reviews/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:10
+msgid "https://trial.ovationthemes.com/ovation-one-login-business-pro/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:13
+msgid "https://www.ovationthemes.com/products/wordpress-business-theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:16
+msgid "https://trial.ovationthemes.com/docs/ot-one-login-business-pro/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:19
+msgid "https://trial.ovationthemes.com/docs/ot-one-business-blocks-free-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:22
+msgid "Premium One Business Blocks Theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:25
+msgid "https://www.ovationthemes.com/products/wordpress-bundle"
+msgstr ""
+
+#: inc/dashboard/welcome-notice.php:51
+#: inc/dashboard/welcome-notice.php:89
 #: inc/TGM/tgm.php:11
 msgid "Ovation Elements"
 msgstr ""
 
-#: inc/dashboard/welcome-notice.php:212
+#: inc/dashboard/welcome-notice.php:211
 msgid "For information and detailed instructions, check out our theme documentation."
 msgstr ""
 
-#: inc/dashboard/welcome-notice.php:216
-msgid "Get Pro Theme"
+#: inc/dashboard/welcome-notice.php:220
+msgid "Theme Informations"
 msgstr ""
 
 #: inc/TGM/class-tgm-plugin-activation.php:340

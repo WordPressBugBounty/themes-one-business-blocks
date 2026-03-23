@@ -46,6 +46,8 @@ function one_business_blocks_setup() {
 
     require get_parent_theme_file_path( '/inc/dashboard/dashboard.php' );
 
+	require get_parent_theme_file_path( '/inc/admin/theme-upsell.php' );
+
     require get_parent_theme_file_path( '/inc/customizer/customizer.php' );
 }
 endif; // one_business_blocks_setup
@@ -94,6 +96,7 @@ add_action('admin_enqueue_scripts', 'one_business_blocks_enqueue_admin_script');
 
 function one_business_blocks_admin_theme_style() {
    wp_enqueue_style('one-business-blocks-custom-admin-style', esc_url(get_template_directory_uri()) . '/inc/dashboard/dashboard.css');
+   wp_enqueue_style('one-business-blocks-admin-upsell-style', esc_url(get_template_directory_uri()) . '/assets/css/admin-style.css');
 }
 add_action('admin_enqueue_scripts', 'one_business_blocks_admin_theme_style');
 
@@ -102,3 +105,15 @@ require get_template_directory() . '/block-patterns.php';
 require get_template_directory() . '/custom-setting.php';
 require get_template_directory() .'/inc/TGM/tgm.php';
 require_once get_template_directory() . '/inc/dashboard/welcome-notice.php';
+
+/**
+ * Redirect to Pro upsell page after theme activation
+ */
+add_action('after_switch_theme', 'one_business_blocks_redirect_after_activation');
+function one_business_blocks_redirect_after_activation() {
+    if ( ! get_option( 'one_business_blocks_activation_redirect', false ) ) {
+        update_option( 'one_business_blocks_activation_redirect', true );
+        wp_safe_redirect( admin_url( 'themes.php?page=one-business-blocks-pro' ) );
+        exit;
+    }
+}
