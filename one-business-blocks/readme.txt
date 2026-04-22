@@ -4,14 +4,14 @@ Contributors: pewilliams
 Requires at least: 6.1
 Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 4.6
+Stable tag: 4.7
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Tags: blog, portfolio, e-commerce, one-column, two-columns, custom-colors, custom-menu, custom-logo, sticky-post, threaded-comments, right-sidebar, left-sidebar, grid-layout, custom-background, rtl-language-support, featured-images, wide-blocks, editor-style, full-site-editing, block-patterns, block-styles, style-variations, template-editing, footer-widgets, custom-header, translation-ready
 
 == Description ==
 
-One Business Blocks is an excellent website template designed to elevate your online presence. Ideal for businesses of all sizes, it provides a dynamic platform with a sleek and modern aesthetic. Crafted for versatility, it suits various industries such as consulting, corporate, finance, marketing, startup, services, development and tech companies, brand agencies and investment. With a clean and professional design, the theme captivates visitors at first glance, ensuring a positive impression. Its layout is optimized for user engagement and seamless navigation, emphasizing the key elements of your business. One of the standout benefits lies in its adaptability. The theme effortlessly caters to diverse content needs, whether you’re showcasing products, promoting services, or sharing valuable insights. Its user-friendly customization options empower you to tailor the theme to match your brand identity seamlessly. Moreover, the One Business Blocks WordPress Theme is built for performance, ensuring a responsive and visually appealing experience across devices. Its fast-loading pages enhance user satisfaction, contributing to a positive interaction with your business. Take advantage of the theme’s SEO optimization to boost your online visibility and attract a broader audience. Social media integration further amplifies your reach, allowing you to connect with your audience on multiple platforms. Demo: https://trial.ovationthemes.com/ovation-one-login-business-pro/
+One Business Blocks is an excellent website template designed to elevate your online presence. Ideal for businesses of all sizes, it provides a dynamic platform with a sleek and modern aesthetic through a flexible one business blocks structure. Crafted for versatility, it suits various industries such as consulting, corporate, finance, marketing, startup, services, development and tech companies, brand agencies, and investment firms. With a clean and professional design, the theme captivates visitors at first glance, ensuring a positive impression. Its layout is optimized for user engagement and seamless navigation, emphasizing the key elements of your business. One of the standout benefits lies in its adaptability, allowing it to effortlessly cater to diverse content needs, whether you’re showcasing products, promoting services, or sharing valuable insights. Its user-friendly customization options empower you to tailor the design to match your brand identity seamlessly. Moreover, it is built for performance, ensuring a responsive and visually appealing experience across devices. Its fast-loading pages enhance user satisfaction, contributing to a positive interaction with your business. Take advantage of SEO optimization to boost your online visibility and attract a broader audience, while social media integration further amplifies your reach across multiple platforms.
 
 == Theme Resources ==
 
@@ -257,3 +257,7 @@ One Business Blocks is distributed under the terms of the GNU GPL
 
 = 4.6 =
 * Updated Version.
+
+= 4.7 =
+* Added Admin Bar Function.
+* Updated Description.
