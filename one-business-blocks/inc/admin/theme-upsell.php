@@ -13,8 +13,8 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 add_action( 'admin_menu', 'one_business_blocks_add_theme_page' );
 function one_business_blocks_add_theme_page() {
     add_theme_page(
-        __('One Business Blocks Pro', 'one-business-blocks'),
-        'One Business Blocks 🚀',
+        __( 'Upgrade to PRO', 'one-business-blocks' ),
+        __( 'Upgrade to PRO', 'one-business-blocks' ),
         'manage_options',
         'one-business-blocks-pro',
         'one_business_blocks_pro_page_callback'
