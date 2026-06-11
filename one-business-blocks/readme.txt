@@ -4,7 +4,7 @@ Contributors: pewilliams
 Requires at least: 6.1
 Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 4.8
+Stable tag: 4.8.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Tags: blog, portfolio, e-commerce, one-column, two-columns, custom-colors, custom-menu, custom-logo, sticky-post, threaded-comments, right-sidebar, left-sidebar, grid-layout, custom-background, rtl-language-support, featured-images, wide-blocks, editor-style, full-site-editing, block-patterns, block-styles, style-variations, template-editing, footer-widgets, custom-header, translation-ready
@@ -77,161 +77,27 @@ One Business Blocks is distributed under the terms of the GNU GPL
 
 == Changelog ==
 
-= 1.0 =
-* Initial version release.
+= 4.8.1 =
+* Updated Theme Functions.
 
-= 1.1 =
-* Added footer link.
-* Added  notice function.
+= 4.8 =
+* Updated Theme.= 4.7 =
+* Added Admin Bar Function.
+* Updated Description.
 
-= 1.2 =
-* Updated sidebar css.
-* Updated post css.
+= 4.6 =
+* Updated Version.
 
-= 1.3 =
-* Updated Notice function.
-* Added page left sidebar template.
-* Added page right sidebar template.
-* Updated navigation css.
+= 4.5 =
+* Changed getstarted.
 
-= 1.4 =
-* Added fontawesome.
-* Added scroll to top.
-
-= 1.5 =
-* Added cart.html file.
-* Added checkout.html file.
-* Added archieve-product.html file.
-* Added single-product.html file.
-* Added woocommerce css.
-
-= 1.6 =
-* Updated template files.
-* Did inner pages responsive.
-* Updated footer css.
-
-= 1.7 =
-* Changed theme links.
-
-= 1.8 =
-* Updated 404 page css.
-* Added customizer.
-* Added theme setings in dashboard.
-* Updated animation .
-* Updated banner css.
-
-= 1.9 =
-* Added single post left sidebar template.
-* Added single post no sidebar template.
-* Added woocommerce css.
-* Blog template css.
-
-= 2.0 =
-* Updated admin.js file.
-* Added nonce.
-* Updated Notice function.
-* Added search page css.
-
-= 2.1 =
-* Added buy now link in navigation.
-* Added more articles block in single post templates.
-* Updated sidebar latest post box.
-* Updated page templates.
-* Added pot file.
+= 4.4 =
 * Added style variation.
-* Update theme css.
-* Updated navigation css.
-
-= 2.2 = 
-* Added TGM file.
-
-= 2.3 =
-* Resolved main tag issue.
+* Added tags footer widgets, custom header.
+* Added hover effect on images in the shop page.
+* Added id to main tag.
+* Updated rtl file.
 * Updated pot file.
-* Resolved header cart and header my account issue.
-* Added Dutch(Netherlands) Translation pot file.
-
-= 2.4 =
-* Post No header image template.
-* Page No header image template.
-* Search template bugs resolve.
-* Updated pot file.
-* Added woocoomerce support.
-
-= 2.5 =
-* Added Themes bundle button.
-* Added Woocommerce search template.
-* Added select option css.
-* Added Submenus in header navigation.
-
-= 2.6 =
-* Updated navigation css.
-* Resolved static post page issue.
-* Resolved bugs.
-
-= 2.7 =
-* rsolved resonsive menu issue.
-* Did Prefixing.
-
-= 2.8 =
-* Added RTL langauge support tag.
-* Updated get start.
-
-= 2.9 =
-* Added typography variations.
-
-= 3.0 =
-* Resolved Bugs.
-* Added plugin install code.
-
-= 3.1 =
-* Resolved submenu access issue.
-
-= 3.2 =
-* Added homepage sections.
-
-= 3.3 =
-* Added heading for index, cart, checkout and single product page.
-* Added css for view cart button in shop and single product page.
-* Added css for search page and single post on responsive media.
-* Added hover css for sidebar and scroll to top.
-
-= 3.4 =
-* Fixed minor issues.
-
-= 3.5 =
-* Resolved bugs.
-
-= 3.6 =
-* Resolved css error.
-
-= 3.7 =
-* Resolved css for single post and related post image.
-* Add title in shop page and search result page of products.
-* Resolved css error for cart page.
-* Show dropdown icon in shop page filter.
-
-= 3.8 =
-* Resolved css error.
-
-= 3.9 =
-* Resolved css bugs in inner pages.
-* Added animation to inner shop page image.
-* Updated the theme bundle text. 
-* In templates added blank page.
-
-= 4.0 =
-* Resolves minor css bugs.
-
-= 4.1 =
-* Resolved css bugs.
-* Added hover effect on single post image.
-* Added blog listing template.
-* In sidebar added page block.
-* Set the inner pages in container.
-
-= 4.2 =
-* Resolves css bugs.
 
 = 4.3 =
 * Added single page no sidebar template.
@@ -244,23 +110,159 @@ One Business Blocks is distributed under the terms of the GNU GPL
 * Resolved tgm error.
 * Updated pot file.
 
-= 4.4 =
-* Added style variation.
-* Added tags footer widgets, custom header.
-* Added hover effect on images in the shop page.
-* Added id to main tag.
-* Updated rtl file.
+= 4.2 =
+* Resolves css bugs.
+
+= 4.1 =
+* Resolved css bugs.
+* Added hover effect on single post image.
+* Added blog listing template.
+* In sidebar added page block.
+* Set the inner pages in container.
+
+= 4.0 =
+* Resolves minor css bugs.
+
+= 3.9 =
+* Resolved css bugs in inner pages.
+* Added animation to inner shop page image.
+* Updated the theme bundle text. 
+* In templates added blank page.
+
+= 3.8 =
+* Resolved css error.
+
+= 3.7 =
+* Resolved css for single post and related post image.
+* Add title in shop page and search result page of products.
+* Resolved css error for cart page.
+* Show dropdown icon in shop page filter.
+
+= 3.6 =
+* Resolved css error.
+
+= 3.5 =
+* Resolved bugs.
+
+= 3.4 =
+* Fixed minor issues.
+
+= 3.3 =
+* Added heading for index, cart, checkout and single product page.
+* Added css for view cart button in shop and single product page.
+* Added css for search page and single post on responsive media.
+* Added hover css for sidebar and scroll to top.
+
+= 3.2 =
+* Added homepage sections.
+
+= 3.1 =
+* Resolved submenu access issue.
+
+= 3.0 =
+* Resolved Bugs.
+* Added plugin install code.
+
+= 2.9 =
+* Added typography variations.
+
+= 2.8 =
+* Added RTL langauge support tag.
+* Updated get start.
+
+= 2.7 =
+* rsolved resonsive menu issue.
+* Did Prefixing.
+
+= 2.6 =
+* Updated navigation css.
+* Resolved static post page issue.
+* Resolved bugs.
+
+= 2.5 =
+* Added Themes bundle button.
+* Added Woocommerce search template.
+* Added select option css.
+* Added Submenus in header navigation.
+
+= 2.4 =
+* Post No header image template.
+* Page No header image template.
+* Search template bugs resolve.
 * Updated pot file.
+* Added woocoomerce support.
 
-= 4.5 =
-* Changed getstarted.
+= 2.3 =
+* Resolved main tag issue.
+* Updated pot file.
+* Resolved header cart and header my account issue.
+* Added Dutch(Netherlands) Translation pot file.
 
-= 4.6 =
-* Updated Version.
+= 2.2 = 
+* Added TGM file.
 
-= 4.7 =
-* Added Admin Bar Function.
-* Updated Description.
+= 2.1 =
+* Added buy now link in navigation.
+* Added more articles block in single post templates.
+* Updated sidebar latest post box.
+* Updated page templates.
+* Added pot file.
+* Added style variation.
+* Update theme css.
+* Updated navigation css.
 
-= 4.8 =
-* Updated Theme.
+= 2.0 =
+* Updated admin.js file.
+* Added nonce.
+* Updated Notice function.
+* Added search page css.
+
+= 1.9 =
+* Added single post left sidebar template.
+* Added single post no sidebar template.
+* Added woocommerce css.
+* Blog template css.
+
+= 1.8 =
+* Updated 404 page css.
+* Added customizer.
+* Added theme setings in dashboard.
+* Updated animation .
+* Updated banner css.
+
+= 1.7 =
+* Changed theme links.
+
+= 1.6 =
+* Updated template files.
+* Did inner pages responsive.
+* Updated footer css.
+
+= 1.5 =
+* Added cart.html file.
+* Added checkout.html file.
+* Added archieve-product.html file.
+* Added single-product.html file.
+* Added woocommerce css.
+
+= 1.4 =
+* Added fontawesome.
+* Added scroll to top.
+
+= 1.3 =
+* Updated Notice function.
+* Added page left sidebar template.
+* Added page right sidebar template.
+* Updated navigation css.
+
+= 1.2 =
+* Updated sidebar css.
+* Updated post css.
+
+= 1.1 =
+* Added footer link.
+* Added  notice function.
+
+= 1.0 =
+* Initial version release.
+
