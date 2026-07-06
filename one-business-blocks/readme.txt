@@ -2,16 +2,16 @@
 
 Contributors: pewilliams
 Requires at least: 6.1
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 5.6
-Stable tag: 4.8.1
+Stable tag: 4.8.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Tags: blog, portfolio, e-commerce, one-column, two-columns, custom-colors, custom-menu, custom-logo, sticky-post, threaded-comments, right-sidebar, left-sidebar, grid-layout, custom-background, rtl-language-support, featured-images, wide-blocks, editor-style, full-site-editing, block-patterns, block-styles, style-variations, template-editing, footer-widgets, custom-header, translation-ready
 
 == Description ==
 
-One Business Blocks is an excellent website template designed to elevate your online presence. Ideal for businesses of all sizes, it provides a dynamic platform with a sleek and modern aesthetic through a flexible one business blocks structure. Crafted for versatility, it suits various industries such as consulting, corporate, finance, marketing, startup, services, development and tech companies, brand agencies, and investment firms. With a clean and professional design, the theme captivates visitors at first glance, ensuring a positive impression. Its layout is optimized for user engagement and seamless navigation, emphasizing the key elements of your business. One of the standout benefits lies in its adaptability, allowing it to effortlessly cater to diverse content needs, whether you’re showcasing products, promoting services, or sharing valuable insights. Its user-friendly customization options empower you to tailor the design to match your brand identity seamlessly. Moreover, it is built for performance, ensuring a responsive and visually appealing experience across devices. Its fast-loading pages enhance user satisfaction, contributing to a positive interaction with your business. Take advantage of SEO optimization to boost your online visibility and attract a broader audience, while social media integration further amplifies your reach across multiple platforms.
+One Business Blocks is an exceptional multipurpose WordPress website template designed to enhance your online presence. Catering to companies of all sizes, it offers a dynamic platform with a sleek and modern aesthetic through its flexible structure. Crafted for versatility, the template suits various industries including consulting, corporate, finance, marketing, startups, and tech firms, as well as brand and investment agencies. With a clean and professional design, it captivates visitors from the start, ensuring a positive impression. Its layout is optimized for user engagement and seamless navigation, highlighting the essential elements of your business. A standout feature is its adaptability, allowing it to meet diverse content needs, whether showcasing products, promoting services, or sharing valuable insights. The user-friendly customization options enable you to effortlessly tailor the design to align with your brand identity. Furthermore, it is built for performance, ensuring a responsive and visually appealing experience across devices. Its fast-loading pages enhance user satisfaction, contributing to positive interactions with your company. Take advantage of SEO optimization to improve your online visibility and attract a broader audience, while social media integration amplifies your reach across multiple platforms.
 
 == Theme Resources ==
 
@@ -76,6 +76,11 @@ One Business Blocks WordPress Theme, Copyright 2024 pewilliams
 One Business Blocks is distributed under the terms of the GNU GPL
 
 == Changelog ==
+
+= 4.8.3 =
+* Resolved minor bugs.
+* Tested upto 7.0.
+* Updated woocommerce pages.
 
 = 4.8.1 =
 * Updated Theme Functions.
