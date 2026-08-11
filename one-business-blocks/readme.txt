@@ -4,7 +4,7 @@ Contributors: pewilliams
 Requires at least: 6.1
 Tested up to: 7.0
 Requires PHP: 5.6
-Stable tag: 4.8.3
+Stable tag: 4.8.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Tags: blog, portfolio, e-commerce, one-column, two-columns, custom-colors, custom-menu, custom-logo, sticky-post, threaded-comments, right-sidebar, left-sidebar, grid-layout, custom-background, rtl-language-support, featured-images, wide-blocks, editor-style, full-site-editing, block-patterns, block-styles, style-variations, template-editing, footer-widgets, custom-header, translation-ready
@@ -76,6 +76,9 @@ One Business Blocks WordPress Theme, Copyright 2024 pewilliams
 One Business Blocks is distributed under the terms of the GNU GPL
 
 == Changelog ==
+
+= 4.8.4 =
+* Improved Theme Performance.
 
 = 4.8.3 =
 * Resolved minor bugs.
