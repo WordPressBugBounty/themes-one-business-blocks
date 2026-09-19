@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: One Business Blocks 4.5\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/one-business-blocks\n"
+"Report-Msgid-Bugs-To: https://WordPress.org/support/theme/one-business-blocks\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #. Theme URI of the theme
 #: style.css
-msgid "https://www.ovationthemes.com/products/free-wordpress-business-theme"
+msgid "https://www.ovationthemes.com/products/free-WordPress-business-theme"
 msgstr ""
 
 #. Description of the theme
@@ -412,11 +412,11 @@ msgid "WordPress Bundle 🎁"
 msgstr ""
 
 #: inc/dashboard/dashboard.php:4
-msgid "https://wordpress.org/support/theme/one-business-blocks/"
+msgid "https://WordPress.org/support/theme/one-business-blocks/"
 msgstr ""
 
 #: inc/dashboard/dashboard.php:7
-msgid "https://wordpress.org/support/theme/one-business-blocks/reviews/"
+msgid "https://WordPress.org/support/theme/one-business-blocks/reviews/"
 msgstr ""
 
 #: inc/dashboard/dashboard.php:10
@@ -424,7 +424,7 @@ msgid "https://trial.ovationthemes.com/ovation-one-login-business-pro/"
 msgstr ""
 
 #: inc/dashboard/dashboard.php:13
-msgid "https://www.ovationthemes.com/products/wordpress-business-theme"
+msgid "https://www.ovationthemes.com/products/WordPress-business-theme"
 msgstr ""
 
 #: inc/dashboard/dashboard.php:16
@@ -440,7 +440,7 @@ msgid "Premium One Business Blocks Theme"
 msgstr ""
 
 #: inc/dashboard/dashboard.php:25
-msgid "https://www.ovationthemes.com/products/wordpress-bundle"
+msgid "https://www.ovationthemes.com/products/WordPress-bundle"
 msgstr ""
 
 #: inc/dashboard/welcome-notice.php:51
