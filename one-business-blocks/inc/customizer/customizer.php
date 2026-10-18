@@ -27,7 +27,6 @@ function one_business_blocks_customize_register( $wp_customize ) {
 									<h3 style="margin-top: 0; color: #fff;">' . __('Unlock Advanced Features', 'one-business-blocks') . '</h3>
 									<p style="margin: 15px 0;">' . __('Upgrade to Pro to get:', 'one-business-blocks') . '</p>
 									<ul style="list-style: none; padding: 0; text-align: left; max-width: 300px; margin: 20px auto;">
-										<li style="margin-bottom: 10px;">✓ ' . __('12+ Premium Header Layouts', 'one-business-blocks') . '</li>
 										<li style="margin-bottom: 10px;">✓ ' . __('Advanced Footer Builder', 'one-business-blocks') . '</li>
 										<li style="margin-bottom: 10px;">✓ ' . __('Typography Controls', 'one-business-blocks') . '</li>
 										<li style="margin-bottom: 10px;">✓ ' . __('WooCommerce Styling Options', 'one-business-blocks') . '</li>
