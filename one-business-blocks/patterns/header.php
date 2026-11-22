@@ -70,7 +70,7 @@
 
 <!-- wp:navigation-link {"label":"Blog","type":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"BUY NOW","type":"link","opensInNewTab":true,"url":"https://www.ovationthemes.com/products/wordpress-business-theme","kind":"custom","className":"buynow"} /-->
+<!-- wp:navigation-link {"label":"BUY NOW","type":"link","opensInNewTab":true,"url":"https://www.ovationthemes.com/products/WordPress-business-theme","kind":"custom","className":"buynow"} /-->
 <!-- /wp:navigation --></div>
 <!-- /wp:column -->
 

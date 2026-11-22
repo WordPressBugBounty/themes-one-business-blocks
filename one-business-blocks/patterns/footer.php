@@ -112,11 +112,11 @@
 <div class="wp-block-columns are-vertically-aligned-center footer-copyright"><!-- wp:column {"verticalAlignment":"center","width":"50%","className":"copyright-text-outer"} -->
 <div class="wp-block-column is-vertically-aligned-center copyright-text-outer" style="flex-basis:50%"><!-- wp:group {"className":"copyright-text","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group copyright-text has-background-color has-text-color has-link-color"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","fontSize":"small"} -->
-<p class="has-background-color has-text-color has-link-color has-small-font-size"><a rel="noreferrer noopener" href="https://www.ovationthemes.com/products/free-wordpress-business-theme" target="_blank"><?php esc_html_e('One Business Blocks WordPress Theme','one-business-blocks'); ?></a>.</p>
+<p class="has-background-color has-text-color has-link-color has-small-font-size"><a rel="noreferrer noopener" href="https://www.ovationthemes.com/products/free-WordPress-business-theme" target="_blank"><?php esc_html_e('One Business Blocks WordPress Theme','one-business-blocks'); ?></a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}},"layout":{"selfStretch":"fit","flexSize":null}},"textColor":"background"} -->
-<p class="has-background-color has-text-color has-link-color"><?php esc_html_e('Proudly powered by ','one-business-blocks'); ?><a rel="noreferrer noopener" href="https://www.ovationthemes.com/" target="_blank"><?php esc_html_e('Ovation Themes','one-business-blocks'); ?></a> <?php esc_html_e('and','one-business-blocks'); ?> <a href="https://wordpress.org"><?php esc_html_e('WordPress','one-business-blocks'); ?></a>.</p>
+<p class="has-background-color has-text-color has-link-color"><?php esc_html_e('Proudly powered by ','one-business-blocks'); ?><a rel="noreferrer noopener" href="https://www.ovationthemes.com/" target="_blank"><?php esc_html_e('Ovation Themes','one-business-blocks'); ?></a> <?php esc_html_e('and','one-business-blocks'); ?> <a href="https://WordPress.org"><?php esc_html_e('WordPress','one-business-blocks'); ?></a>.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
